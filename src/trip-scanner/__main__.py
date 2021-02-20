@@ -1,4 +1,4 @@
-from interface.application import main
+from interface import main
 import typer
 
 if __name__ == '__main__':
